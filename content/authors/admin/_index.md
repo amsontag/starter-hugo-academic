@@ -1,7 +1,7 @@
 ---
 title: Andrei Sontag
 role: PhD Student in Statistical Applied Mathematics
-avatar_filename: photo2.jpeg
+avatar_filename: admin/photo2.jpeg
 bio: My research interests include stochastic processes applied in biology, with
   focus on ecology, evolution and collective behaviour.
 interests:
@@ -45,9 +45,9 @@ education:
       institution: Universidade de São Paulo
       year: 2017
 superuser: true
-last_name: Bighetti
+last_name: Sontag
 highlight_name: true
-first_name: Alice
+first_name: Andrei
 email: ams284@bath.ac.uk
 ---
 I am a PhD student in Statistical Applied Mathematics at the University of Bath. My research has been focused on stochastic processes applied in biology. In particular, I have investigated awareness spread in populations and how it affects the outcomes of epidemics. My current project has been on modelling the collective behaviour of locusts. This work has been supervised by {{< staticref "https://people.bath.ac.uk/ma3tcr/" "newtab" >}}Tim Rogers{{< /staticref >}} and {{< staticref "https://kityates.com/" "newtab" >}}Kit Yates{{< /staticref >}}.
