@@ -9,9 +9,11 @@ interests:
   - Collective Behaviour
   - Stochastic Processes
 social:
-  - icon: envelope
+  - display:
+      header: false
+    link: mailto:ams284@bath.ac.uk
     icon_pack: fas
-    link: /#contact
+    icon: envelope
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ams284_
@@ -26,15 +28,15 @@ organizations:
     url: https://samba.ac.uk/
 education:
   courses:
-    - course: BSc in Physics
-      institution: Universidade de São Paulo
-      year: 2017
-    - course: MSc in Physics
-      institution: UNESP
-      year: 2020
     - course: MRes in Statistical Applied Mathematics
       institution: University of Bath
       year: 2021
+    - course: MSc in Physics
+      institution: UNESP
+      year: 2020
+    - course: BSc in Physics
+      institution: Universidade de São Paulo
+      year: 2017
 superuser: true
 last_name: Bighetti
 highlight_name: true
