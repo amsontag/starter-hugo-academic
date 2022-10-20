@@ -23,7 +23,7 @@ name = "my_theme" # Based on https://www.nordtheme.com/
   # Primary
   # Primary
   primary = "#1C2833"
-  background = "#21618C"
+  background = "#2E4053"
 
   link = "#3498DB"
   link_hover = "#D08770"
