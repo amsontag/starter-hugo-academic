@@ -14,6 +14,11 @@ social:
     link: mailto:ams284@bath.ac.uk
     icon_pack: fas
     icon: envelope
+  - display:
+      header: true
+    link: https://www.researchgate.net/profile/Andrei-Sontag
+    icon_pack: ai
+    icon: researchgate
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ams284_
@@ -23,11 +28,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/amsontag
-  - display:
-      header: true
-    link: https://www.researchgate.net/profile/Andrei-Sontag
-    icon_pack: ai
-    icon: researchgate
+    display:
+      header: false
 organizations:
   - name: Statistical Applied Mathematics at Bath (SAMBa)
     url: https://samba.ac.uk/
