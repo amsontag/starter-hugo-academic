@@ -36,4 +36,4 @@ name = "my_theme" # Based on https://www.nordtheme.com/
 
   # Home sections
   home_section_odd = "#212F3C"
-  home_section_even = "#2874A6"
+  home_section_even = "#283747"
