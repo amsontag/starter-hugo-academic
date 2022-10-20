@@ -16,9 +16,9 @@ social:
     icon: envelope
   - display:
       header: true
-    link: https://www.researchgate.net/profile/Andrei-Sontag
+    link: https://orcid.org/0000-0002-7088-0491
     icon_pack: ai
-    icon: researchgate
+    icon: orcid
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ams284_
