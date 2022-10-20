@@ -22,7 +22,7 @@ name = "my_theme" # Based on https://www.nordtheme.com/
 [dark]
   # Primary
   # Primary
-  primary = "#212F3C "
+  primary = "#212F3C"
   background = "#21618C"
 
   link = "#88C0D0"
