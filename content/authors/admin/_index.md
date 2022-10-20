@@ -43,6 +43,6 @@ email: ams284@bath.ac.uk
 ---
 I am a PhD student in Statistical Applied Mathematics at the University of Bath. My research has been focused on stochastic processes applied in biology. In particular, I have investigated awareness spread in populations and how it affects the outcomes of epidemics. My current project has been on modelling the collective behaviour of locusts. This work has been supervised by {{< staticref "https://people.bath.ac.uk/ma3tcr/" "newtab" >}}Tim Rogers{{< /staticref >}} and {{< staticref "https://kityates.com/" "newtab" >}}Kit Yates{{< /staticref >}}.
 
-B﻿efore joining cohort 7 in the SAMBa CDT, I did an M.Sc. in Physics at the São Paulo State University (UNESP) and a B.Sc. in Physics at the University of São Paulo. 
+B﻿efore joining cohort 7 in the SAMBa CDT, I did an M.Sc. in Physics at the São Paulo State University (UNESP) and a B.Sc. in Physics at the University of São Paulo (USP).
 
 O﻿utside academia, I enjoy reading books, hiking and learning new languages.
