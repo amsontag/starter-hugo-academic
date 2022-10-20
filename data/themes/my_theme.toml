@@ -10,7 +10,7 @@ name = "my_theme"
   link_hover = "#88C0D0"
 
   # Menu
-  menu_primary = "#5E81AC"
+  menu_primary = "#283747"
   menu_text = "#E5E9F0"
   menu_text_active = "#EBCB8B"
   menu_title = "#D08770"
