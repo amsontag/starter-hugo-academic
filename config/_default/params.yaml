@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: Coffee
+  theme_day: my_theme
   theme_night: Mr Robot
   font: Rose
-  font_size: L
+  font_size: M
 
 # SEO
 
