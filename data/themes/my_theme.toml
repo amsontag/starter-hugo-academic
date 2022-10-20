@@ -1,9 +1,9 @@
 # Theme metadata
-name = "my_theme" # Based on https://www.nordtheme.com/
+name = "my_theme" 
 
 [light]
   # Primary
-  primary = "#34495E "
+  primary = "#34495E"
   background = "#3498DB"
 
   link = "#D08770"
@@ -21,8 +21,8 @@ name = "my_theme" # Based on https://www.nordtheme.com/
 
 [dark]
   # Primary
-  primary = "#88C0D0"
-  background = "#2E3440"
+  primary = "#34495E "
+  background = "#3498DB"
 
   link = "#88C0D0"
   link_hover = "#D08770"
