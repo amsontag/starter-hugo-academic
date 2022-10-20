@@ -23,6 +23,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/amsontag
+  - display:
+      header: true
+    link: https://www.researchgate.net/profile/Andrei-Sontag
+    icon_pack: ai
+    icon: researchgate
 organizations:
   - name: Statistical Applied Mathematics at Bath (SAMBa)
     url: https://samba.ac.uk/
