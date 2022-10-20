@@ -22,8 +22,8 @@ name = "my_theme" # Based on https://www.nordtheme.com/
 [dark]
   # Primary
   # Primary
-  primary = "#1C2833"
-  background = "#2E4053"
+  primary = "#17202A"
+  background = "#17202A"
 
   link = "#3498DB"
   link_hover = "#D08770"
