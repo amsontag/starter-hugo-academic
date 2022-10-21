@@ -31,7 +31,7 @@ name = "my_theme" # Based on https://www.nordtheme.com/
   # Menu
   menu_primary = "#17202A"
   menu_text = "#F0F3F4"
-  menu_text_active = "#85C1E9"
+  menu_text_active = "#2980B9"
   menu_title = "#F0F3F4"
 
   # Home sections
