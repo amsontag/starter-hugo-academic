@@ -37,11 +37,11 @@ summary: The accumulation of deleterious mutations in a Muller's ratchet and the
   predicted by the corresponding deterministic models. The general applicability
   of our model suggests that this unexpected scaling could be important in a
   wide range of real-world applications.
-url_dataset: "#"
+url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: "#"
-url_video: "#"
+url_source: ""
+url_video: ""
 date: 2022-10-21T07:13:12.421Z
 url_slides: ""
 links:
@@ -52,7 +52,7 @@ image:
   focal_point: ""
   preview_only: false
 publishDate: 2017-01-01T00:00:00Z
-url_poster: "#"
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_poster: ""
+url_code: ""
 doi: " https://doi.org/10.48550/arXiv.2209.08076"
 ---
