@@ -44,9 +44,6 @@ url_source: ""
 url_video: ""
 date: 2022-10-21T07:13:12.421Z
 url_slides: ""
-links:
-  - name: Custom Link
-    url: ""
 image:
   caption: ""
   focal_point: ""
