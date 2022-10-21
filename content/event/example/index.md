@@ -27,6 +27,9 @@ the model passes through a phase transition to a state in which major outbreaks 
 be suppressed. Our work highlights the urgent need for effective interventions to increase
 trust and inform the public.'
 
+references: '[1] A. Sontag, T. Rogers and C. A. Yates, Misinformation can prevent the suppression of
+epidemics, J. R. Soc. Interface, 19:20210668, 2022.'
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-09-20T19:00:00Z'
