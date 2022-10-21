@@ -15,7 +15,7 @@ abstract: The effectiveness of non-pharmaceutical interventions, such as
   highlights the urgent need for effective interventions to increase trust and
   inform the public.
 slides: ""
-url_pdf: ""
+url_pdf: "https://royalsocietypublishing.org/doi/epdf/10.1098/rsif.2021.0668"
 publication_types:
   - "2"
 authors:
@@ -41,11 +41,11 @@ summary: The effectiveness of non-pharmaceutical interventions, such as
   transition to a state in which major outbreaks cannot be suppressed. Our work
   highlights the urgent need for effective interventions to increase trust and
   inform the public.
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_dataset: ""
 url_project: ""
 publication_short: In *JRSI*
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
+url_source: ""
+url_video: ""
 title: Misinformation can prevent the suppression of epidemics
 doi: https://doi.org/10.1098/rsif.2021.0668
 featured: true
@@ -64,6 +64,6 @@ date: 2022-10-21T06:35:04.114Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: ""
 ---
 
