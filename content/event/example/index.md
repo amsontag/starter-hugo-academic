@@ -47,7 +47,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: 'poster.pdf'
+url_pdf: 'example.pdf'
 url_slides: ''
 url_video: ''
 ---
