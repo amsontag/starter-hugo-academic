@@ -17,7 +17,7 @@ abstract: In this paper, we investigate a generalised model of N particles
   general applicability of our model suggests that this unexpected scaling could
   be important in a wide range of real-world applications.
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/pdf/2209.08076.pdf
 publication_types:
   - "3"
 authors:
@@ -51,5 +51,5 @@ image:
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
-doi: " https://doi.org/10.48550/arXiv.2209.08076"
+doi: "https://doi.org/10.48550/arXiv.2209.08076"
 ---
