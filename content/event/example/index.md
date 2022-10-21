@@ -8,8 +8,6 @@ location: University of Heidelberg
 address:
   street: Grabengasse 1, 69117
   city: Heidelberg
-  region: ''
-  postcode: ''
   country: Germany
 
 summary: Poster presented at the 12th ECMTB Conference (2022).
