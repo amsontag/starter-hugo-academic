@@ -25,9 +25,10 @@ measures, and distrusting individuals who reject better quality information and 
 riskier behaviour. We show that, as the density of the distrusting population increases,
 the model passes through a phase transition to a state in which major outbreaks cannot
 be suppressed. Our work highlights the urgent need for effective interventions to increase
-trust and inform the public.'
+trust and inform the public.
 
-references: '[1] A. Sontag, T. Rogers and C. A. Yates, Misinformation can prevent the suppression of
+References:
+[1] A. Sontag, T. Rogers and C. A. Yates, Misinformation can prevent the suppression of
 epidemics, J. R. Soc. Interface, 19:20210668, 2022.'
 
 # Talk start and end times.
