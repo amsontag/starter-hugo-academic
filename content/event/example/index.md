@@ -7,8 +7,7 @@ event_url: https://ecmtb2022.org/
 location: University of Heidelberg
 address:
   street: Grabengasse 1, 69117
-  city: Heidelberg
-  country: Germany
+  city: Heidelberg, Germany
 
 summary: Poster presented at the 12th ECMTB Conference (2022).
 abstract: 'The effectiveness of non-pharmaceutical interventions, such as mask-wearing and social
@@ -42,7 +41,7 @@ all_day: false
 publishDate: '2017-01-01T00:00:00Z'
 
 authors: [admin, Tim Rogers and Kit Yates]
-tags: []
+tags: [Conference, ECMTB 2022, Poster]
 
 # Is this a featured talk? (true/false)
 featured: false
