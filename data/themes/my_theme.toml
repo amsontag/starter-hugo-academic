@@ -25,7 +25,7 @@ name = "my_theme" # Based on https://www.nordtheme.com/
   primary = "#17202A"
   background = "#17202A"
 
-  link = "#D0D3D4"
+  link = "#2E86C1"
   link_hover = "#E67E22"
 
   # Menu
